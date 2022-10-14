@@ -1,0 +1,21 @@
+==Sounds==
+
+!rocks1
+!rocks2
+!rocks3
+!rocks4
+!rocks5
+!innuendo
+!dontlike
+!rip
+
+==Misc==
+
+!qotd - Question of the Day
+!mods - Active mods on current game
+!song - Display details of currently playing song
+!discord - Dicecord invite link
+!commands - list commands
+!playlist - links to current playlist
+!join - Announce you've joined the chat
+!lurk - Announce you're lurking
